@@ -12,6 +12,9 @@
         min-height: 100vh;
         background: #091921;
  }
+.img {
+    height: 50px;
+}
  .calculator{
      position: relative;
      display: grid;
